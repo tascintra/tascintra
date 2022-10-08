@@ -73,7 +73,7 @@ Curiosidade, aprendizado e desafio são o que me movem, mas também gosto muito 
 <a href="https://www.instagram.com/tascintra/" target="_blank" rel="noreferrer">
 <img src="./images/instagram.svg" width="32" height="32" />
 </a>
-<a href="mailto:jean.meira10@hotmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:tiago.slv@hotmail.com" target="_blank" rel="noreferrer">
 <img src="./images/outlook-2019.svg" width="32" height="32" />
 </a>
 
