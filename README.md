@@ -49,10 +49,14 @@ Curiosidade, aprendizado e desafio são o que me movem, mas também gosto muito 
 <img src="./images/vs-code.svg" width="32" height="32" />
 </a>
 
-## :rocket: Próximas tecnologias que irei me aprofundar
+## :rocket: Próximas tecnologias que vou me aprofundar
 
 <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
 <img src="./images/react.svg" width="32" height="32" />
+</a>
+
+<a href="https://vuejs.org" target="_blank" rel="noreferrer">
+<img src="./images/vue.svg" width="32" height="32" />
 </a>
 
 <!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
