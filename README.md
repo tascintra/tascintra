@@ -30,16 +30,9 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
 <br>
 
 ## 📈 My Statistics
-
-<div>
+<div align=center>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=tascintra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div>
   <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=tascintra&theme=github-dark-blue"/>
-</div>
-
-<div>
   <img height="152rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tascintra&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
