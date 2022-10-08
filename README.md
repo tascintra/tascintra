@@ -1,4 +1,4 @@
-# Hi, how are you?
+# Hi 👋, how are you?
 
 ### My name is Tiago and I'm glad to have you in my GitHub profile.
 
@@ -23,14 +23,14 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
 ## 🌳 My GitHub Repositories
 <div>
   <a href="https://github.com/tascintra?tab=repositories" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
  </div>
 
 <br>
 
 ## 📈 My Statistics
-<div align=center>
+<div>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=tascintra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=tascintra&theme=github-dark-blue"/>
   <img height="152rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tascintra&layout=compact&langs_count=16&theme=github_dark"/>
@@ -43,6 +43,10 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma shield">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode shield">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git shield">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub shield">
 </div>
 
 <br>
@@ -54,7 +58,3 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js shield"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap shield"/>
 </div>
-
-
-
-
