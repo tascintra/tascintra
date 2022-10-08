@@ -1,85 +1,58 @@
-# Olá, tudo bem com você?
+# Hi, how are you?
 
-## Meu nome é Tiago e é um prazer te receber no meu perfil.
+## My name is Tiago and I'm glad to have you in my GitHub profile.
 
-Tenho 34 anos, sou um dev frontend em formação e após alguns anos em hiato no mercado de tecnologia, resolvi trazer meu talento e experiência de volta pra esse mercado que sempre fui um admirador apaixonado. 
+I'm 34yo, and I'm a front-end developer in training. After some years out of technology market I decided to bring my talent and experience back to this market that I've always been a passionate admirer.
 
-Curiosidade, aprendizado e desafio são o que me movem, mas também gosto muito de ler e cozinhar.
+Curiosity, learning and challenge are what move me on, but I also really enjoy reading and cooking.
 
-<div align='center'>
+<div>
+
+<a href="https://www.linkedin.com/in/tascintra/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discordapp.com/users/Tiago%20Silva#7043" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:tiago.slv@hotmail.com" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
+</div>
+
+<div>
   <h2>
     <a
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/tascintra?tab=repositories"
-    >Acesse meus repositórios</a>
+    >My GitHub Repositories</a>
   </h2>
 </div>
 
-## :chart_with_upwards_trend: Minhas estatísticas
+### :chart_with_upwards_trend: My Statistics
 
- <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tascintra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tascintra&layout=compact&langs_count=7&theme=blue-green"/>
+<div>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=tascintra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=tascintra&theme=github-dark-blue"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tascintra&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
-## :bookmark_tabs: Minhas Skills
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="./images/html-5.svg" width="32" height="32" />
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="./images/css3.svg" width="32" height="32" />
-</a>
-
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-<img src="./images/javascript.svg" width="32" height="32" />
-</a>
-
-<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-<img src="./images/git.svg" width="32" height="32" />
-</a>
-
-<a href="https://www.figma.com" target="_blank" rel="noreferrer">
-<img src="./images/figma.svg" width="32" height="32" />
-</a>
-
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-<img src="./images/vs-code.svg" width="32" height="32" />
-</a>
-
-## :rocket: Próximas tecnologias que vou me aprofundar
-
-<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
-<img src="./images/react.svg" width="32" height="32" />
-</a>
-
-<a href="https://vuejs.org" target="_blank" rel="noreferrer">
-<img src="./images/vue.svg" width="32" height="32" />
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="./images/bootstrap.svg" width="32" height="32" />
-</a>
-
-## Entre em contato através das minhas mídias
-
-<div align='center'>
-
-<a href="https://www.linkedin.com/in/tascintra/" target="_blank" rel="noreferrer">
-<img src="./images/icons8-linkedin.svg" width="32" height="32" />
-</a>
-<a href="https://www.instagram.com/tascintra/" target="_blank" rel="noreferrer">
-<img src="./images/instagram-logo.svg" width="32" height="32" />
-</a>
-<a href="mailto:tiago.slv@hotmail.com" target="_blank" rel="noreferrer">
-<img src="./images/outlook-2019.svg" width="32" height="32" />
-</a>
-
+### :bookmark_tabs: My Skills
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
 </div>
 
-<div align='center'>
-<a height="150em" href="http://www.github.com/tascintra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tascintra&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+### :rocket: Technologies I'm interested in
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React shield"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js shield"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js shield"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap shield"/>
 </div>
+
+
+
 
