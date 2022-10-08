@@ -23,7 +23,7 @@ Curiosidade, aprendizado e desafio são o que me movem, mas também gosto muito 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tascintra&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-## :bookmark_tabs: Minhas Skill's
+## :bookmark_tabs: Minhas Skills
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/html-5.svg" width="32" height="32" />
@@ -59,23 +59,18 @@ Curiosidade, aprendizado e desafio são o que me movem, mas também gosto muito 
 <img src="./images/vue.svg" width="32" height="32" />
 </a>
 
-<!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="./images/bootstrap.svg" width="32" height="32" />
+</a>
 
-<p align="center">
-<img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
-</p> -->
-
-Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :arrow_down:
+## Entre em contato através das minhas mídias
 
 <div align='center'>
 
-<a href="https://www.linkedin.com/in/jeanmeira/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/tascintra/" target="_blank" rel="noreferrer">
 <img src="./images/icons8-linkedin.svg" width="32" height="32" />
 </a>
-<a href="https://www.facebook.com/jean.meira.79" target="_blank" rel="noreferrer">
-<img src="./images/facebook-novo.svg" width="32" height="32" />
-</a>
-<a href="https://www.instagram.com/jean.meira10/" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/tascintra/" target="_blank" rel="noreferrer">
 <img src="./images/instagram.svg" width="32" height="32" />
 </a>
 <a href="mailto:jean.meira10@hotmail.com" target="_blank" rel="noreferrer">
