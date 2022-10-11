@@ -47,6 +47,7 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode shield" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git shield" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub shield" />
+  <img src="https://img.shields.io/badge/Design%20Thinking-470137?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 </div>
 
 <br>
