@@ -1,6 +1,6 @@
 # Hi 👋, how are you?
 
-### My name is Tiago and I'm glad to have you in my GitHub profile.
+### My name is Tiago and I'm glad to have you on my GitHub profile.
 
 I'm 34yo, and I'm a front-end developer in training. After some years out of technology market I decided to bring my talent and experience back to this market that I've always been a passionate admirer.
 
