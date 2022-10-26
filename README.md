@@ -76,7 +76,7 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node shield" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios shield" />
 
-<br>
+---
 
 ### [Rocket Pay](https://github.com/tascintra/rocket-pay)
 ![](https://github.com/tascintra/rocket-pay/blob/main/.github/project.png)
@@ -87,7 +87,7 @@ Curiosity, learning and challenge are what move me on, but I also really enjoy r
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node shield" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite shield" />
 
-<br>
+---
 
 ### [Intro section with dropdown navigation](https://github.com/tascintra/intro-section-with-dropdown)
 ![](https://github.com/tascintra/intro-section-with-dropdown/blob/master/design/desktop-preview.jpg)
