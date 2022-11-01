@@ -2,7 +2,7 @@
 
 ### My name is Tiago and I'm glad to have you on my GitHub profile.
 
-I'm 34yo, and I'm a front-end developer in training. After some years out of technology market I decided to bring my talent and experience back to this market that I've always been a passionate admirer.
+I'm 34yo, from Brazil, and I'm a front-end developer. After some years out of technology market I decided to bring my talent and experience back to this market that I've always been a passionate admirer.
 
 Curiosity, learning and challenge are what move me on, but I also really enjoy reading and cooking.
 
