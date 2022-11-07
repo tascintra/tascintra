@@ -4,6 +4,8 @@
 
 I'm 34yo, from Brazil, and I'm a front-end developer. After some years out of technology market I decided to bring my talent and experience back to this market that I've always been a passionate admirer.
 
+My main goal on my return is to improve and make people's lives easier using technology, and there's nothing better to accomplish this goal than be a developer building solutions.
+
 Curiosity, learning and challenge are what move me on, but I also really enjoy reading and cooking.
 
 <div>
