@@ -4,7 +4,7 @@
 
 I'm a front-end developer focused on React and JavaScript.
 
-My main goal is to solve real life problems building awesome projects.
+My main goal is to solve real life problems building awesome technology solutions.
 
 Curiosity, learning, challenge and productivity are what move me on.
 
