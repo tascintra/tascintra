@@ -4,7 +4,7 @@
 
 I'm a front-end developer focused on React.
 
-My goal is to solve problems using technology.
+I love to solve problems through technology.
 
 Curiosity, learning, challenge and productivity are what move me on.
 
