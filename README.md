@@ -2,9 +2,9 @@
 
 ### My name is Tiago and I'm glad to have you on my GitHub profile.
 
-I'm a front-end developer focused on React.
+I'm a front-end developer focused on React and Vue.
 
-I love to solve problems through technology.
+I ❤️ love to give solutions using technology.
 
 Curiosity, learning, challenge and productivity are what move me on.
 
