@@ -4,7 +4,7 @@
 
 I'm a front-end developer focused on React and Vue.
 
-I ❤️ love to give solutions using technology.
+I ❤️ love to give solutions through technology.
 
 Curiosity, learning, challenge and productivity are what move me on.
 
