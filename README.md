@@ -9,6 +9,9 @@ I ❤️ love to give solutions through technology.
 Curiosity, learning, challenge and productivity are what move me on.
 
 <div>
+  <a href="https://api.whatsapp.com/send?phone=5516991974262" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/tascintra/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
