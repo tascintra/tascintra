@@ -55,7 +55,7 @@ Curiosity, learning, challenge and productivity are what move me on.
 
 ## 🛠️ My Main Projects
 
-### [Ranek Challenge](https://https://github.com/tascintra/ranek-challenge)
+### [Ranek Challenge](https://github.com/tascintra/ranek-challenge)
 ![](https://github.com/tascintra/ranek-challenge/blob/main/public/desktop-preview.png)
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React shield" />
