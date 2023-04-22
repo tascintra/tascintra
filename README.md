@@ -53,7 +53,7 @@ Curiosity, learning, challenge and productivity are what move me on.
 
 <br>
 
-## 🛠️ My Main Projects
+## 🛠️ Latest Projects
 
 ### [Ranek Challenge](https://github.com/tascintra/ranek-challenge)
 ![](https://github.com/tascintra/ranek-challenge/blob/main/public/desktop-preview.png)
