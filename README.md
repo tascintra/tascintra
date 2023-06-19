@@ -27,7 +27,6 @@ Curiosity, learning, challenge and productivity are what move me on.
 
 ## 📈 My Statistics
 <div>
-  <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tascintra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="150rem" src="https://streak-stats.demolab.com/?user=tascintra&theme=github-dark-blue" />
   <img height="152rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tascintra&layout=compact&langs_count=16&theme=github_dark" />
 </div>
